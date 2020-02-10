@@ -1,5 +1,4 @@
-import yourproject
+import Time_for_an_Adventure
 
 def test_import():
-    assert yourproject
-
+    assert Time_for_an_Adventure

@@ -5,12 +5,12 @@ with open("README.md", "r") as f:
 
 
 setuptools.setup(
-    name="yourproject"
+    name=Time_for_an_Adventure
     version="0.0.1",
-    author="your name",
-    author_email="your@email.com",
-    url="https://github.com/yourusername/yourproject",
-    description="what does yourproject do?",
+    author="Ethan Kubistek",
+    author_email=ekubistek@gmail.com,
+    url=https://github.com/EthanKubistek/Time_for_an_Adventure,
+    description=New text based game with a structured skeletom,
     long_description=long_description,
     long_description_content_type="text/markdown",
     packages=setuptools.find_packages(),
